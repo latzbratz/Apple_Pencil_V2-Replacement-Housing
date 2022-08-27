@@ -20,3 +20,29 @@ Designed to be printed on an Anycubic Photon, however, with some work I'm sure y
 
 degazinitz@gmail.com
 
+
+# Instructions
+
+* Find your chewed up apple pencil
+* remove the tip from the pencil
+* Grab your nearest vise 
+* Grab your nearest exacto knife 
+* Heat exacto knife with flame (carefully so you dont burn yourself)  
+* cut off back of pencil (see ref photo 1)
+* Place apple pencil in vise
+* tighten vise
+* cut plastic with exacto knife
+* move pencil in vise
+* tighten vise (you can kinda tension the vise again and again to break the plastic just be careful so you dont squish the apple pencil)
+* repeat 4-8 until you have managed to remove pencil from chewed up housing
+* test the pencil and all its features (should still work)
+* Print both parts (or one idc)
+* make sure pencil fits
+* remove pencil
+* drown the pencil in glue (im kidding just add a good enough amount of glue)
+* carefully insert the pencil into the new housing (make sure you put it in the right way)
+* twist the tip of the pencil back on making sure everything fits perfectly
+* let glue dry and harden while attached to your iPad so nothing moves
+* done!!! Wooo 
+
+I will not be held responsible if you burn or cut yourself. 
