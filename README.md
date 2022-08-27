@@ -2,9 +2,13 @@
 for when your pet discovers your Apple Pencil
 
 Designed and made in Cali... wait hold on... thats not right... 
+E6000 is both your friend and your enemy...
 _________________________________________________________________________________
 
 Work in progress... 
+
+(https://user-images.githubusercontent.com/76223518/187037550-4d264ff8-d49a-4bdb-8494-f61eea98f7c4.png)
+
 
 Two parts because idk how else you would put the pencil into the housing...
 _________________________________________________________________________________
