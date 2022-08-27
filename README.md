@@ -37,7 +37,8 @@ degazinitz@gmail.com
 * repeat 4-8 until you have managed to remove pencil from chewed up housing
 * test the pencil and all its features (should still work)
 * Print both parts (or one idc)
-* make sure pencil fits
+* Sand the outside (if you want)
+* make sure apple pencil fits inside housing
 * remove pencil
 * drown the pencil in glue (im kidding just add a good enough amount of glue)
 * carefully insert the pencil into the new housing (make sure you put it in the right way)
