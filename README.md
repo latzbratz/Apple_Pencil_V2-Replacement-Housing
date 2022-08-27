@@ -12,3 +12,6 @@ Designed with Fusion 360
 
 Designed to be printed on an Anycubic Photon, however, with some work I'm sure you could print it on other printers too. 
 
+
+degazinitz@gmail.com
+
