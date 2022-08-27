@@ -1,5 +1,5 @@
 # Apple_Pencil_V2-Replacement-Housing
-for when your pet discovers your apple pencil
+for when your pet discovers your Apple Pencil
 
 Designed and made in Cali... wait hold on... thats not right... 
 _________________________________________________________________________________
