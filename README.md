@@ -5,7 +5,7 @@ Designed and made in Cali... wait hold on... thats not right...
 
 _________________________________________________________________________________
 
-E6000 is both your friend and your enemy...
+Glue is both your friend and your enemy...
 
 _________________________________________________________________________________
 
@@ -16,10 +16,6 @@ ________________________________________________________________________________
 Designed with Fusion 360
 
 Designed to be printed on an Anycubic Photon, however, with some work I'm sure you could print it on other printers too. 
-
-
-degazinitz@gmail.com
-
 
 # Instructions
 
@@ -46,4 +42,6 @@ degazinitz@gmail.com
 * let glue dry and harden while attached to your iPad so nothing moves
 * done!!! Wooo 
 
-I will not be held responsible if you burn or cut yourself. 
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
